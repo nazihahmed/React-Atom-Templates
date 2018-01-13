@@ -1,0 +1,14 @@
+import React,{PropTypes} from 'react';
+
+const <%= Name %> = (props) => {
+  return (
+
+  );
+}
+
+<%= Name %>.propTypes = {
+  //myProp: PropTypes.string.isRequired
+};
+
+
+export default <%= Name %>;
